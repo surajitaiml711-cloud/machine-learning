@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "https://mansik-santulan-score.onrender.com";
+  const API_BASE = "https://machine-learning-c4xt.onrender.com/";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
